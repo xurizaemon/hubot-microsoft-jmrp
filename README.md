@@ -1,2 +1,3 @@
-# hubot-microsoft-jmrp
-Get Hubot to check your Microsoft JMRP.
+# Microsoft Junk Mail Reporting Program, for Hubot
+
+Get Hubot to check your Microsoft JMRP status.
