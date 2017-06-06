@@ -1,0 +1,24 @@
+{
+  "name": "hubot-microsoft-jmrp",
+  "description": "Microsoft JMRP status for Hubot ",
+  "version": "0.0.1",
+  "author": "Chris Burgess <chris@fuzion.co.nz>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "jmrp",
+    "microsoft-jmrp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xurizaemon/hubot-microsoft-jmrp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xurizaemon/hubot-microsoft-jmrp/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "main": "src/microsoft-jmrp.coffee"
+}
